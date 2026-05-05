@@ -37,6 +37,7 @@
                 android:id="@+id/dummy_button"
                 style="?android:attr/buttonBarButtonStyle"
                 android:layout_width="0dp"
+                android:textColor="@color/black"
                 android:backgroundTint="@android:color/white"
                 android:layout_height="wrap_content"
                 android:layout_marginBottom="100dp"
